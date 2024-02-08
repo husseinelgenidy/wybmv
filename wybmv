@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Special Question</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <img id="bear" src="happy_bear.png" alt="Happy Bear"/>
+        <p id="question">Will you be my girlfriend?</p>
+        <button id="yesButton">Yes</button>
+        <button id="noButton">No</button>
+    </div>
+</body>
+</html>
